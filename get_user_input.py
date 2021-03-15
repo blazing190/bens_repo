@@ -1,3 +1,5 @@
+print ('Welcome to the number counter. This program adds all numbers between two values.')
+
 # Get The First Number and Convert To Integer
 num1 = int(input("Please Give The Lowest Number: >>> "))
 
