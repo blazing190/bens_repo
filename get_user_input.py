@@ -1,10 +1,10 @@
 
 
-# Get The First Number
-num1 = input("Please Give The Lowest Number: >>> ")
+# Get The First Number and Convert To Int
+num1 = int(input("Please Give The Lowest Number: >>> "))
 
-# Get The Second Number
-num2 = input("Please Give The Highest Number: >>> ")
+# Get The Second Number and Convert To Int
+num2 = int(input("Please Give The Highest Number: >>> "))
 
 # Get The Sum
 sum_of_numbers = num1 + num2
