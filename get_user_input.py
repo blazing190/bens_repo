@@ -1,5 +1,3 @@
-
-
 # Get The First Number and Convert To Integer
 num1 = int(input("Please Give The Lowest Number: >>> "))
 
